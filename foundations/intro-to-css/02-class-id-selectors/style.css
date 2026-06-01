@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.odd{
+    background-color: #ee6363;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+}
+
+.num3{
+    font-size: 20px;
+}
+
+#num2{
+    font-size: 44px;
+    color: #0000ff;
+}
+
+#num4{
+    font-weight: 700;
+    background-color: #00ff00;
+}
